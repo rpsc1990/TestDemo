@@ -1,5 +1,0 @@
-This is for testing.
-I have make some changes
-hello git
-hello me
-demo branch
